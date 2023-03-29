@@ -36,6 +36,6 @@ I am Lukong Anne, a **Software Engineer** and a huge tech enthusiast. I currentl
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Lukong123&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukong123&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukong123&show=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lukong123.Lukong123)
