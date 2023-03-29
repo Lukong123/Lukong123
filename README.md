@@ -25,17 +25,17 @@ I am Lukong Anne, a **Software Engineer** and a huge tech enthusiast. I currentl
 ![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-darkblue?style=flat-square&logo=jupyternotebook)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+## Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Lukong123&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukong123&show=TeX&layout=compact)
+
+
 ## 📝 Top Blog Posts
 
 -   [The ls-l*.c Command in Linux](https://medium.com/@lukonganne/the-ls-l-c-command-in-linux-553496d1f89f)
 -   [Restaurant Reservation Application](https://machinda.hashnode.dev/restaurant-reservation-web-application-foodie)
 -   [What Happens when you type google.com on your browser and press enter](https://machinda.hashnode.dev/restaurant-reservation-web-application-foodie)
-## Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Lukong123&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Lukong123&count_private=true&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukong123&show=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lukong123.Lukong123)
